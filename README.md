@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 🥴
 
-<a href="https://github.com/emmanuerl">
+<a href="https://github.com/Noman-Iqbal-1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noman-Iqbal-1&show_icons=true&theme=merko&count_private=true" alt="My github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noman-Iqbal-1&theme=merko&layout=compact" alt="My github top languages" />
 </a>
