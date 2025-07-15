@@ -1,4 +1,4 @@
-### Hi there , im Kruse👋
+### Hi there , im Noman👋
 I'm Noman Iqbal and i'm a software developer with a lot of passion for building server side applications and a huge fan of Javascript programming. i'm also a lover of good music and i always take out time to update my playlist.
 <!--
 **Emmanuerl/Emmanuerl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
